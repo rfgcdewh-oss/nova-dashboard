@@ -48,10 +48,16 @@ export default function Home() {
           </div>
 
           <div className="status">
-            <span></span>
-            Online
-          </div>
-        </header>
+  <span></span>
+  Online
+</div>
+
+
+  
+
+  
+
+  
 
         {active === "Overview" && (
           <>
